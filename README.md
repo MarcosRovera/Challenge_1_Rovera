@@ -39,7 +39,7 @@ Algunos hallazgos importantes del análisis fueron:
 
 Clonar este repositorio:
 
-git clone https://github.com/tu-usuario/alura-store-analysis.git
+git clone https://github.com/MarcosRovera/Challenge_1_Rovera.git
 
 Instalar las dependencias necesarias:
 
